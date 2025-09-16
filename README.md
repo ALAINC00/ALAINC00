@@ -1,16 +1,18 @@
-## Hi there 👋
+# Bienvenido a mi repositorio de GitHub
 
-<!--
-**ALAINC00/ALAINC00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy ALAIN CAMPOVERDE, y esta es mi cuenta de GitHub proporcionada por BANCO DEL LITORAL.  
 
-Here are some ideas to get you started:
+Aquí encontrarás proyectos, pruebas y código relacionado con mis actividades en la empresa, incluyendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desarrollo de aplicaciones webs.
+- Implementación de APIs y servicios backend.
+- Experimentos y proyectos de aprendizaje en diferentes tecnologías.
+- Documentación y recursos técnicos.
+
+## Acerca de esta cuenta
+
+Esta cuenta se utiliza para fines laborales y profesionales, por lo que todos los repositorios reflejan trabajo relacionado con la empresa y buenas prácticas de desarrollo.
+
+---
+
+> Para más información sobre algún proyecto, revisa la documentación en cada repositorio o contacta al propietario del repositorio.
